@@ -112,12 +112,6 @@ Inventory
 
 Restaurant analytics
 
-
-👨‍💻 Developer
-Nelson Apidi
-📧 nelsonapidi75@gmail.com
-🔗 GitHub: @semedo-nob
-
 📄 License
 MIT License. Free for personal and commercial use.
 
