@@ -56,7 +56,7 @@
 
 bash
 # Clone the repository
-git clone https://github.com/semedo-nob/swiftdine.git
+git clone https://github.com/jaredvincent414/swiftdine
 cd swiftdine
 
 # Install dependencies
